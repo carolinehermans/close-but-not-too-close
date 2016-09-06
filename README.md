@@ -15,3 +15,9 @@ Project #1 for Expanded Theatre at Carnegie Mellon University
 * Paul Chan Window Piece:
 [http://www.museomagazine.com/PAUL-CHAN](http://www.museomagazine.com/PAUL-CHAN)
 
+## Tech Setup
+
+### Kinect 2 on a mac
+
+Follow these instructions to get a driver for the kinect: [https://github.com/OpenKinect/libfreenect2/blob/master/README.md](https://github.com/OpenKinect/libfreenect2/blob/master/README.md)
+Will add some comments on how to do this later
