@@ -15,6 +15,9 @@ Project #1 for Expanded Theatre at Carnegie Mellon University
 * Paul Chan Window Piece:
 [http://www.museomagazine.com/PAUL-CHAN](http://www.museomagazine.com/PAUL-CHAN)
 
+* Yoko Ono - From My Window
+[http://www.architecturaldigest.com/story/yoko-ono-kunsthalle-krems-austria](http://www.architecturaldigest.com/story/yoko-ono-kunsthalle-krems-austria)
+
 ## Tech Setup
 
 ### Kinect 2 on a mac
