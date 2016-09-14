@@ -18,6 +18,9 @@ Project #1 for Expanded Theatre at Carnegie Mellon University
 * Yoko Ono - From My Window
 [http://www.architecturaldigest.com/story/yoko-ono-kunsthalle-krems-austria](http://www.architecturaldigest.com/story/yoko-ono-kunsthalle-krems-austria)
 
+* UVA- Mirror
+[https://uva.co.uk/work/mirror](https://uva.co.uk/work/mirror)
+
 ## Storyboard & tech schematic
 [https://docs.google.com/document/d/1A6bcmZC6UAWTpfXM4ilCG7hX7P1P5O_UI5vfdYnGRrE/edit?usp=sharing](https://docs.google.com/document/d/1A6bcmZC6UAWTpfXM4ilCG7hX7P1P5O_UI5vfdYnGRrE/edit?usp=sharing)
 
